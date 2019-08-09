@@ -1,0 +1,109 @@
+body{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  color: #40514E;
+}
+h1 {
+  color: #66BFBF;
+  font-family:'Beth Ellen', serif;
+  font-size: 3rem;
+  margin: 20px auto 0 auto;
+}
+h2 {
+  font-size: 2rem;
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  text-decoration: underline;
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr {
+    border: dotted grey;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-width: 10px;
+    width: 5%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+img {
+
+}
+a {
+  color: #11999E;
+  font-family: 'Monserrat', sans-serif;
+  margin: 10px 20px; /*writing 2 px is for left & right*/
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.bottom-cloud {
+  position: absolute;
+  margin-left: 10px;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  height: 150px;
+  padding-top: 100px;
+}
+.btn {
+  background-color: #66BFBF;
+  border-radius: 15px 15px 15px 15px;
+  color: white;
+  padding: 15px;
+  margin-top: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.contact-me {
+  margin-bottom: 50px;
+}
+.Cooking {
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+.copyright {
+  padding-top: 20px;
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.GetStuffDone {
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+}
+.middle-container {
+  padding-top: 100px;
+}
+.mountain {
+  border-bottom: 50%
+}
+.profile {
+  margin: auto;
+  border-radius: 50%;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 1;
+}
+.top-cloud {
+  position: relative;
+  margin-left: 400px;
+  margin-top: 30px;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 10px;
+}
